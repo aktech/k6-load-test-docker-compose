@@ -1,0 +1,9 @@
+services:
+  k6:
+    image: ghcr.io/grafana/xk6-dashboard:0.7.5
+    volumes:
+      - ./script.js:/app/script.js
+    ports:
+      - 5665:5665
+    working_dir: /app
+    command: "run --out dashboard /app/script.js"
