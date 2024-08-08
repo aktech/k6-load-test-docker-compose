@@ -1,7 +1,7 @@
 # k6 Load test via docker compose
 
 
-## Usage
+## Usage
 
 ```
 docker compose up
