@@ -7,6 +7,8 @@ This is a minimal example to perform load testing with [k6](https://k6.io/) and 
 ## 🔨 Usage
 
 ```
+git clone git@github.com:aktech/k6-load-test-docker-compose.git
+cd k6-load-test-docker-compose.git
 docker compose up
 ```
 
