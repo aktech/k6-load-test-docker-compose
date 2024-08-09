@@ -2,7 +2,7 @@
 
 [![k6 load testing](https://github.com/aktech/k6-load-test-docker-compose/actions/workflows/load_test.yml/badge.svg)](https://github.com/aktech/k6-load-test-docker-compose/actions/workflows/load_test.yml)
 
-This is a minimal example to perform load testing with k6s and visualize the results via xk6-dashboard
+This is a minimal example to perform load testing with [k6](https://k6.io/) and visualize the results via [xk6-dashboard](https://github.com/grafana/xk6-dashboard).
 
 ## 🔨 Usage
 
